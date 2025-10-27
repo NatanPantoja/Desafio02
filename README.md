@@ -39,7 +39,7 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 - Estruturação de um layout complexo de forma semântica (uso correto de `<header>`, `<main>`, `<section>`, `<article>`).
 - Implementação de responsividade usando [CSS Grid, Flexbox, Media Queries - descreva o que usou].
-- Melhoria da hierarquia de títulos (uso correto de `<h1>` a `<h6>`) para acessibilidade e SEO.
+
 
 ## 🏃 Como Executar
 
