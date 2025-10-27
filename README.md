@@ -8,9 +8,9 @@ Um layout responsivo para um blog ou portal de notícias focado em tecnologia e 
 
 [COMO USAR: Tire screenshots do seu projeto e adicione aqui. Você pode arrastá-las para o GitHub ou usar um link.]
 
-|                        Versão Desktop                         |                        Versão Mobile                         |
-| :-----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Imagem da versão desktop do site](./img/readme/desktop.jpg) | ![Imagem da versão mobile do site](./img/readme/celular.jpg) |
+|                        Versão Desktop                         |                        Versão Mobile                        |
+| :-----------------------------------------------------------: | :---------------------------------------------------------: |
+| ![Imagem da versão desktop do site](./img/readme/desktop.jpg) | ![Imagem da versão mobile do site](./img/readme/mobile.jpg) |
 
 ## 📖 Sobre o Projeto
 
